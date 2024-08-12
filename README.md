@@ -13,3 +13,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysenurbakirci&show_icons=true&locale=en&layout=compact" alt="aysenurbakirci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurbakirci&" alt="aysenurbakirci" /></p>
+<p>⚜️</p>
